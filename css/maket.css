@@ -156,7 +156,7 @@ img {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   line-height: 26px;
-  font-weight: 600px;
+  font-weight: 600;
   color: #555252;
   margin-top: 15px;
   margin-bottom: 48px;
@@ -165,7 +165,7 @@ img {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 26px;
-  font-weight: 400px;
+  font-weight: 400;
   color: #555252;
   margin-top: 0;
   margin-bottom: 20px;
